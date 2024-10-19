@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/commons-compress-1.25.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/commons-io-2.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/docker-java-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/docker-java-api-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/docker-java-core-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/docker-java-transport-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/docker-java-transport-httpclient5-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/slf4j-api-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/webdrivermanager-5.6.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/work and study/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
